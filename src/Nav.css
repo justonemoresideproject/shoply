@@ -1,0 +1,105 @@
+.navBar {
+    width: 100vw;
+    height: 10vh;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    top: 0px;
+
+    position: absolute;
+
+    border-style: solid;
+    border-color: red;
+
+    background-color: brown;
+}
+
+thead {
+    width: inherit;
+    height: inherit;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-style: solid;
+    border-color: red;
+}
+
+tr {
+    /* width: inherit;
+    height: inherit; */
+
+    border-style: solid;
+    border-color: red;
+
+
+    background-color: brown;
+}
+
+.brandHeader {
+    display: inline-block;
+
+    top: 0px;
+    left: 0px;
+
+    position: absolute;
+
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.brandHeader button {
+    height: 10vh;
+    width: 12vw;
+
+    font-size: 30px;
+
+    color: white;
+    background-color: inherit;
+    /* background-color: rgb(24, 50, 73); */
+
+    border-style: none;
+
+    border-radius: 4%;
+}
+
+.brandHeader button:hover {
+    border-style: solid;
+    background-color: rgb(24, 50, 73);
+}
+
+.resourceNav {
+    display: inline-block;
+
+    top: 0px;
+    right: 0px;
+
+    position: absolute;
+
+    margin-right: 2px;
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.resourceNav button {
+    height: 10vh;
+    width: 8vw;
+
+    font-size: 20px;
+
+    padding-top: 0px;
+    padding-bottom: 0px;
+
+    color: white;
+    background-color: inherit;
+
+    border-style: none;
+}
+
+.resourceNav button:hover {
+    border-style: solid;
+    background-color: rgb(24, 50, 73);
+}

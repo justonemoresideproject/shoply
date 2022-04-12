@@ -1,0 +1,16 @@
+.homeHeader {
+    top: 0px;
+
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+    align-self: center;
+
+    position: relative;
+}
+
+.homeDescript {
+    margin-top: 20px;
+
+    .align-self: center;
+}

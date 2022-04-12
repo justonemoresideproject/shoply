@@ -1,0 +1,66 @@
+.detailedWrapper {
+    width: 60vw;
+    height: 90vh;
+
+    position: relative;
+
+    background-color: rgba(0, 0, 0, 0.24);
+}
+
+.detailedImage {
+    width: 20vw;
+
+    margin: 0px;
+    margin-top: 10vh;
+    padding: 0px;
+
+    z-index: -1;
+
+    align-items: center;
+}
+
+.cartButton {
+    left: 0px;
+    right: 0px;
+
+    position: relative;
+
+    align-self: center;
+}
+
+.detailedName {
+    margin-top: 0px;
+
+    top: 0px;
+    left: 0px;
+    right: 0px;
+
+    position: absolute;
+}
+
+.detailedPrice {
+    margin-top: 27px;
+
+    top: 0px;
+    left: 0px;
+    right: 0px;
+
+    position: absolute;
+}
+
+.detailedDescription {
+    position: absolute;
+
+    margin-bottom: 10px;
+
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+
+    text-align: center;
+}
+
+.numItemsInput {
+    margin-right: 5px;
+    width: 40px;
+}
